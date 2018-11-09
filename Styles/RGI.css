@@ -1,0 +1,27 @@
+body {
+    background-image: url("bgi2.jpg");  
+    background-size: cover;
+    color: white;
+    margin: 0px;
+    padding:0px;
+}
+
+.HP a:hover {
+    color: brown;
+    font-size: 150%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

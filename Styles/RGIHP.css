@@ -1,0 +1,48 @@
+body {
+    background-image: url("bgi2.jpg");  
+    background-size: cover;
+    color: white;
+    margin: 0px;
+    padding:0px;
+}
+
+
+header {
+    text-align: center;
+    font-size: 300%;
+    font-family: 'Franklin Gothic Medium';
+    text-shadow: 10px 10px 12px lightblue;
+    color:black;
+    padding: 5%
+    text-align: center;
+}
+
+p.SU{
+    text-align: center;
+    border: 50% black;
+    padding: 5%;
+    border-style: dotted;
+    border-width: 20px;
+    font-size: 500%;
+    font-family: monospace;
+    font-weight: bolder;
+}
+.HP a:hover {
+    color: brown;
+    font-size: 150%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

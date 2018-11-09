@@ -1,0 +1,35 @@
+
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+    position: sticky;
+  }
+ul li {
+    float: left;
+    width: 220px;
+    height: 40px;
+    background-color: black;
+    opacity: .8;
+    line-height: 30px
+    text-align: center;
+    font-size: 25px;
+}
+ ul li a{
+     text-decoration: none;
+     color:white;
+     display: block;
+ }
+
+ ul li a:hover {
+     background-color: blue;
+ }
+ul li ul li {
+    display: none;
+}
+ 
+ul li:hover ul li {
+    display: block;
+}

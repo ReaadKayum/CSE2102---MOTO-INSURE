@@ -1,0 +1,53 @@
+body {
+    background: url("bgi2.jpg");
+    background-size : cover;
+    margin : 0px;
+    padding: 0px;
+}
+
+form {
+    color: white;
+    font-family: Arial;
+    font-size: 100%;
+    text-align: center;
+}
+
+.signupbox {
+    width: 500px;
+    height: 480px;
+    background-color: black;
+    box-sizing: border-box;
+    padding: 70px 30xp;
+    opacity: .65;
+    border-radius: 66px 66px 66px 66px;
+    
+    
+}
+
+.signupbox input{
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    color:white;
+}
+
+.signupbox input[type="submit"], input[type="reset"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    background: blue;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 20px;
+
+}
+
+.heading {
+    color: white;
+    font-family: impact;
+    font-size: 150%;
+    text-align: center;
+}
